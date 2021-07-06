@@ -122,6 +122,23 @@ img{
     padding: 65px;
     margin: 100px
 }
+.cooking-week{
+    text-align: center;
+}
+.hr{
+    border: 2px solid black;
+}
+.box-recipe{
+    display: flex;
+    margin-left: 30px
+}
+.cook-this-week{
+    margin-bottom: 150px;
+}
+..box-recipe img{
+    width: 40%;
+    height: 300px;
+}
 .footer-wrap{
     text-align: center;
     height: 250px;

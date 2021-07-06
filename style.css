@@ -111,3 +111,14 @@ img{
     margin-left: 50px;
     margin-right: 20px;
 }
+.follow{
+    display: flex;
+    justify-content: space-evenly;
+    line-height: 5px;
+    border-radius: 10px;
+    border: 1px solid white;
+    box-shadow: 4px 4px 200px grey;
+    margin-bottom: 150px;
+    padding: 65px;
+    margin: 100px
+}

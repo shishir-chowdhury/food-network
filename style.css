@@ -147,3 +147,11 @@ img{
 .footer-wrap p{
     background-color: black;
 }
+.more{
+    margin-bottom: 150px;
+}
+.more-editors{
+    display: flex;
+    margin-left: 80px;
+    justify-content: space-between;
+}

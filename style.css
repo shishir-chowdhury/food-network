@@ -9,7 +9,7 @@ body{
     color: orange;
 }
 h1{
-    font-size: 80px;
+    font-size: 60px;
 }
 p{
 font-size: 22px;
@@ -121,4 +121,12 @@ img{
     margin-bottom: 150px;
     padding: 65px;
     margin: 100px
+}
+.footer-wrap{
+    text-align: center;
+    height: 250px;
+    background-color: black;
+}
+.footer-wrap p{
+    background-color: black;
 }

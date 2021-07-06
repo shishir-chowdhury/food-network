@@ -50,12 +50,12 @@ h2{
 }
 .recipe{
     display: flex;
-    position: relative;
-    left:50%
-}
-
-.recipe p{
     align-items: center;
+    flex-direction: column;
+}
+.recipe p{
+    width: 700px;
+    text-align: center;
 }
 
 

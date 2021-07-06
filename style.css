@@ -15,7 +15,7 @@ p{
 font-size: 22px;
 }
 .h1-div {
-    line-height: 35px;
+    /* line-height: 35px; */
     text-align: left;
 }
 .p-img-div{
@@ -61,7 +61,7 @@ h2{
     background-position: right bottom;
 }
 .second-h-p {
-    line-height: 40px;
+    /* line-height: 40px; */
     left: -200px;
     position: relative;
     margin-left: 0px;
